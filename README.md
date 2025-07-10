@@ -1,6 +1,6 @@
 # 🚗 Auto-Insurance claim automation with Agentic AI 
 
-<img src="https://github.ibm.com/skol/agentic-ai-client-bootcamp/blob/main/img/beta.png" width="100">
+<img src="https://github.com/Bootcamp-Auto-Insuracnce/blob/main/img/beta.png" width="100">
 
 ![](insurance-banner.png)
 
@@ -72,4 +72,4 @@ https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/448234/63965561-72
 
 ## 📝 Hands-on step-by-step lab
 
-Please find the step-by-step instructions [Hands-on Lab](/usecases/autoclaim-insurance/assets/hands_on_lab_autoclaim_insurance.md) on how you can implement this use case.
+Please find the step-by-step instructions [Hands-on Lab](/assets/hands_on_lab_autoclaim_insurance.md) on how you can implement this use case.
