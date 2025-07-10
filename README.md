@@ -1,6 +1,6 @@
 # 🚗 Auto-Insurance claim automation with Agentic AI 
 
-<img src="https://github.com/Bootcamp-Auto-Insuracnce/blob/main/img/beta.png" width="100">
+<img src="https://github.com/Bootcamp-Auto-Insurance/blob/main/img/beta.png" width="100">
 
 ![](insurance-banner.png)
 
