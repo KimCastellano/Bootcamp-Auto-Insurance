@@ -64,7 +64,7 @@ ABC Insurance Agency is a pioneer in Auto-insurance. While ABC Insurance has lon
 
 
 
-![Architecture](/assets/demo/Auto-insurance Agent demo.mp4)
+https://github.com/KimCastellano/Bootcamp-Auto-Insurance/blob/main/assets/demo/Auto-Insurance%20Agent%20demo.mp4
 
 
 ---
